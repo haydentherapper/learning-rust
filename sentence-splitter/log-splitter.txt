@@ -1,0 +1,24 @@
+Syntax error - Wrong syntax of println - Compile time
+Syntax error - Wrote "splitSentences" instead of "split_sentences" - Compile time
+Syntax error - Used old variable name - Compile time
+Syntax error - Tried to iterate over len() instead of range(0, len()) - Compile time
+Syntax error - Used one argument instead of two with range() - Compile time
+Syntax error - Passed char instead of &char in the contains func - Compile time
+Syntax error - Used [char] instead of &[char] in initialization of array - Compile time
+Syntax error - Included one too many parens - Compile time
+Syntax error - Missed semicolon - Compile time
+Logic error - Tried char_at with index out of bounds - Run-time
+Syntax error - is_digit func takes a base, which I left out - Compile time
+Logic error - char_at out of bounds for another conditional - Run-time
+Logic error - char_at out of bounds for another conditional - Run-time
+Logic error - char_at out of bounds for another conditional - Run-time
+Logic error - char_at out of bounds for negative index, causing underflow - Run-time
+Syntax error - Passed wrong argument to trim_matches - Compile time
+Syntax error - Mismatched types for array init - Compile time
+Syntax error - Complaining about constant size unknonw at compile-time - Compile time
+Syntax error - Didn't use [i..j], instead tried [i, j] for slicing - Compile time
+Syntax error - Mismatched types for contains method which needed &&str, but used &str - Compile time
+Syntax error - Messed up type declaration, which messed up func call - Compile time
+Syntax error - More complaints about unknown constant size - Compile time
+Syntax error - Mismatch between static string and string - Compile time
+
